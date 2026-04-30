@@ -12,15 +12,12 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/IsThisALis" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
  **<h3 align="left">🚀 Junior Java-dev</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new 2D game engine on Java**
-- 🌱 I'm currently learning: **📚 Exploring Spring (Boot)**
+- 💼 I'm currently working on: **💻 Developing 2D game engine on Java**
+- 🌱 I'm currently learning: **📚 Spring (Boot)**
 - 💬 Ask me about: **💡 Java, OpenGL**
 - 📝 Blog: **<a href="t.me/GlowingFoxStudios" target="_blank">t.me/GlowingFoxStudios</a>**
 
