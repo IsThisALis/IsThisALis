@@ -25,11 +25,3 @@
  **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=bash" height="28" alt="Bash" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px"></div>
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsThisALis&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsThisALis&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-
