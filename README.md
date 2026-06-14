@@ -6,9 +6,8 @@
 
 ### 🚀 Junior Java-dev
 
-Junior Java Developer with hands-on **pet-project experience.**  
+Junior Java Developer with hands-on pet-project experience.
 Building a Twitch bot and studying OpenGL. Open to internships and junior positions.
-Ready for new
 
 ---
 
