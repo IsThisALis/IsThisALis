@@ -37,6 +37,22 @@ Building a Twitch bot and studying OpenGL. Open to internships and junior positi
 
 ---
 
+### 🔥 Featured Projects
+
+**ChatAIssistant**  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsThisALis/ChatAIssistant)  
+*Java • Maven • Gradle • HTTP Client • OpenRouter API*  
+
+Twitch bot with AI-powered responses via OpenRouter API. Uses Java HTTP Client for LLM requests and message delivery.
+
+**ReCore Engine**  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsThisALis/ReCore)  
+*Java • OpenGL • JUnit*  
+
+Minimalist game engine with custom rendering pipeline and physics simulation. Includes unit tests for core modules.
+
+---
+
 ### 🎓 Education
 
 [![Sololearn](https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](java_certificate.jpg)
