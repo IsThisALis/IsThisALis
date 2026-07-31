@@ -44,7 +44,7 @@ Building a Twitch bot and studying OpenGL. Open to internships or positions.
 
 Twitch bot with AI-powered responses via OpenRouter API. Uses Java HTTP Client for LLM requests and message delivery.
 
-**ReCore Engine**  
+**ReCore**  
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsThisALis/ReCore)  
 *Java • OpenGL • Maven • Gradle • JUnit*  
 
