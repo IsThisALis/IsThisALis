@@ -13,7 +13,7 @@ Building a Twitch bot and studying OpenGL. Open to internships or positions.
 
 ### ⚡ Rapid Fire
 - 💼 **I'm currently working on:**  
-  [![Twitch Bot](https://img.shields.io/badge/💻_Developing_Twitch_bot-2C2D72?style=for-the-badge&logo=twitch&logoColor=white)](https://github.com/ChatAIssistant)
+  ![Blender](https://img.shields.io/badge/3D_Modeling-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 - 🌱 **I'm currently learning:**  
   ![Spring Boot](https://img.shields.io/badge/📚_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -54,7 +54,7 @@ Game engine with custom rendering pipeline and physics simulation. Includes unit
 
 ### 🎓 Education
 
-[![Sololearn](https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](java_certificate.jpg)
+![Sololearn](https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)
 
 ---
 
