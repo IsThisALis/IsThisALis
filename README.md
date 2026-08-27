@@ -46,7 +46,7 @@ Twitch bot with AI-powered responses via OpenRouter API. Uses Java HTTP Client f
 
 **ReCore**  
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsThisALis/ReCore)  
-*Java • OpenGL • Maven • Gradle • JUnit*  
+*Java • OpenGL • Gradle • JUnit*  
 
 Game engine with custom rendering pipeline and physics simulation. Includes unit tests for core modules.
 
