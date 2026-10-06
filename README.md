@@ -13,7 +13,7 @@ Building a Twitch bot and studying OpenGL. Open to internships or positions.
 
 ### ⚡ Rapid Fire
 - 💼 **I'm currently working on:**  
-  ![Blender](https://img.shields.io/badge/3D_Modeling-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+  [![my website backend](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsThisALis/my-website-backend)
 
 - 🌱 **I'm currently learning:**  
   ![Spring Boot](https://img.shields.io/badge/📚_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
