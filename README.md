@@ -7,19 +7,22 @@
 ### 🚀 Junior Java-dev
 
 Junior Java Developer with hands-on pet-project experience.
-Building a Twitch bot and studying OpenGL. Open to internships or positions.
+Building a Twitch bot, a website backend, and studying OpenGL. Open to internships or junior positions.
 
 ---
 
 ### ⚡ Rapid Fire
 - 💼 **I'm currently working on:**  
-  [![my website backend](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsThisALis/my-website-backend)
+  [![Website Backend](https://img.shields.io/badge/Website_Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/IsThisALis/websitebackend)
 
 - 🌱 **I'm currently learning:**  
-  ![Spring Boot](https://img.shields.io/badge/📚_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 - 💬 **Ask me about:**  
-  ![Java](https://img.shields.io/badge/💡_Java,_OpenGL-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 
 - 📝 **Blog:**  
   [![Telegram Channel](https://img.shields.io/badge/t.me/GlowingFoxStudios-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GlowingFoxStudios)
@@ -28,15 +31,29 @@ Building a Twitch bot and studying OpenGL. Open to internships or positions.
 
 ### 🛠️ Skills
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) 
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ---
 
 ### 🔥 Featured Projects
+
+**My Website Backend**  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsThisALis/websitebackend)  
+*Java • Spring Boot • PostgreSQL • Docker • JUnit*  
+
+REST API backend for my personal website. Features content management, tag support, and secure authentication.
 
 **ChatAIssistant**  
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsThisALis/ChatAIssistant)  
@@ -61,7 +78,6 @@ Game engine with custom rendering pipeline and physics simulation. Includes unit
 ### 🌐 Socials
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IsThisALis)
-
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/isthisalis)
 
 ---
